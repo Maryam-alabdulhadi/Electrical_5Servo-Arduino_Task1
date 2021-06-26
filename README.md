@@ -2,6 +2,8 @@
 
 **Maryam Alabdulhadi - Weiam Abed**
 
+https://www.tinkercad.com/things/k78tGveDN4m
+
 	//5 Servo motors for robot arm connected with arduino / breadboard
 
 	#include<Servo.h>
